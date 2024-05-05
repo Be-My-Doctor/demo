@@ -15,8 +15,14 @@ Em conclusão, a Be My Doctor representa um avanço significativo na área da sa
 
 
 
-
-
 Nosso time é composto por:
-
+<div style="display: flex; flex-direction: row">
+<img style="width: 200px" src="assets hackathon link/Kauan.jpg"> 
+<img style="width: 260px; height:310px" src="assets hackathon link/Daniel.jpg"> 
+<img style="height: 310px" src="assets hackathon link/Matheus.jpg"> 
+ </div>
+(Da esquerda para direita)
 Kauan Massuia - Aluno de Engenharia de Software da Inteli - Instituto de tecnologia e liderança.
+Daniel Yuki - Aluno de Engenharia do ITA - Desenvolvedor Full Stack
+Matheus Araujo - MBA em Engenharia de Software na FIAP, Business Manager e Engenheiro de Software Freelancer.
+
