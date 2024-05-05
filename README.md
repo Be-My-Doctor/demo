@@ -24,6 +24,9 @@ Em conclusão, a "Be My Doctor" representa um avanço significativo na área da 
 
 [Demo Link](https://be-my-doctor-frontend.vercel.app/)
 
+[API Link](https://be-my-doctor-backend.vercel.app/api/)
+Para verificar as rotas, acesse o repositorio do backend. Ainda, para acessar o banco de dados em modo desenvolvedor, rode o servidor em node e adicione um .env com as credenciais do banco de dados.
+
 [Demo Video](https://youtu.be/ExANLVDyhuU)
 
 [Presentation Link](https://www.canva.com/design/DAGEUrPQ9QQ/PIYVa-2IU60jKKF_hYRkdw/edit?utm_content=DAGEUrPQ9QQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
